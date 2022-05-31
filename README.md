@@ -18,7 +18,7 @@ The application demonstrates the REST API using Spring boot and MongoDB. The app
 1. **Clone the application**
 
 ```bash
-git clone https://github.com/scbushan05/spring-boot-mongodb.git
+git clone git@github.com:varunarang/spring-boot-mongodb-tests.git
 ```
 
 2. **Build and run the backend app using maven**
